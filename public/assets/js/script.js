@@ -294,9 +294,9 @@ function mediaElements() {
 }
 
 function googleMap() {
-    var a = (new google.maps.LatLng(45.738028, 21.224535), {
+    var a = (new google.maps.LatLng(46.852947, -121.760424), {
         zoom: 16,
-        center: new google.maps.LatLng(45.738028, 21.224535),
+        center: new google.maps.LatLng(46.852947, -121.760424),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         mapTypeControl: !1,
         scrollwheel: !1,
