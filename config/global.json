@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Glacier": {
+            "applicationId": "L83OJmKte3M4wcfkfAw1nb8NXkxDu1IXIF3oe1wQ", 
+            "masterKey": "M64Bn9cCGW85B6KSZHYshkGTVLvnUcCIoVz3Nz1r"
+        }, 
+        "_default": {
+            "link": "Glacier"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
